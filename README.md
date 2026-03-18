@@ -7,4 +7,4 @@ This file must be run with a terminal, as the initial player selection happens v
 #TO-DO
 
 1) The moves of the bishop are a bit wierd
-2) 2) Castling still doesnt properly work.
+2) Castling still doesnt properly work.
